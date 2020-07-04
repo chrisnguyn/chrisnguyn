@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, World! 👋
+
+My name is Christopher Nguyen and I'm a third year Computer Science university student. I'm currently working at Major League Hacking as a MLH Fellow.
+
 
 <!--
 **chrisngyn/chrisngyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
