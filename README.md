@@ -1,19 +1,25 @@
-### Hello, World! 👋
+### Hi there! I'm Christopher. <img src="https://github.com/chrisngyn/chrisngyn/blob/master/Hi.gif" width="30px">
 
-My name is Christopher Nguyen and I'm a third year Computer Science university student. I'm currently working at Major League Hacking as a MLH Fellow.
+```javascript
+const aboutMe = {
+    name: "Christopher Nguyen",
+    pronouns: ["He", "Him"],
+    languages: ["Python", "Java", "JavaScript", "HTML", "CSS"],
+    learning: "How to make web applications with the MERN stack",
+    employment: {
+        student: "Computer Science @ York University",
+        current: "Part of the MLH Fellowship 2020 cohort, where I work on contributing to Open Source Software",
+        other: "Former president of the CSHub club @ York University (Dec. 2019 - Aug. 2020)"
+    },
+    connect: {
+        website: "http://chris-nguyen.me",
+        github: "https://github.com/chrisngyn",
+        linkedin: "https://www.linkedin.com/in/chrisngyn",
+        discord: "goosebreeder#8933"
+    }
+}
+```
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<!--
-**chrisngyn/chrisngyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Chris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisngyn&show_icons=true&hide_rank=true&hide_border=true)
