@@ -15,7 +15,7 @@ const aboutMe = {
         website: "http://chris-nguyen.me",
         github: "https://github.com/chrisngyn",
         linkedin: "https://www.linkedin.com/in/chrisngyn",
-        discord: "goosebreeder#8933"
+        discord: "chrispy#8933"
     },
     quote: "Code is where dreams are compiled to reality"
 }
