@@ -7,9 +7,9 @@ const aboutMe = {
     languages: ["Python", "Java", "JavaScript", "HTML", "CSS"],
     learning: "How to make web applications with the MERN stack",
     employment: {
-        student: "3rd year Computer Science @ York University",
-        current: "Part of the MLH Fellowship 2020 cohort, where I work on contributing to Open Source Software",
-        other: "Former president of the CSHub club @ York University (Dec. 2019 - Aug. 2020)"
+        current: "Part of the MLH Fellowship 2020 cohort, where I contribute to Python open-source software",
+        student: "3rd year Computer Science student @ York University",
+        leadership: "Former president of the CSHub club @ York University (Dec. 2019 - Aug. 2020)"
     },
     connect: {
         website: "http://chris-nguyen.me",
@@ -21,6 +21,6 @@ const aboutMe = {
 }
 ```
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 ![Chris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisngyn&show_icons=true&hide_rank=true&hide_border=true)
