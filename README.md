@@ -2,22 +2,23 @@
 
 ```javascript
 const aboutMe = {
-    name: "Christopher Nguyen",
-    pronouns: ["He", "Him"],
-    languages: ["Python", "Java", "JavaScript", "HTML", "CSS"],
-    learning: "How to make web applications with the MERN stack",
+    name: 'Christopher Nguyen',
+    pronouns: ['He', 'Him'],
+    languages: ['Python', 'Java', 'JavaScript', 'HTML', 'CSS'],
+    learning: 'Making web apps with the MERN stack',
     employment: {
-        current: "Part of the MLH Fellowship 2020 cohort, where I contribute to Python open-source software",
-        student: "3rd year Computer Science student @ York University",
-        leadership: "Former president of the CSHub club @ York University (Dec. 2019 - Aug. 2020)"
+        current: 'Software Engineering Intern @ CaseWare',
+        previous: 'MLH Fellow @ MLH Fellowship program. Worked on open-source Python software (FastAPI, Flask, howdoi)',
+        student: 'Rising Computer Science senior student @ York University',
+        leadership: 'Former president of the CSHub club @ York University'
     },
     connect: {
-        website: "http://chris-nguyen.me",
-        github: "https://github.com/chrisngyn",
-        linkedin: "https://www.linkedin.com/in/chrisngyn",
-        discord: "chrispy#8933"
+        website: 'http://chris-nguyen.me',
+        github: 'https://github.com/chrisngyn',
+        linkedin: 'https://www.linkedin.com/in/chrisngyn',
+        discord: 'chrispy#8933'
     },
-    quote: "Code is where dreams are compiled to reality"
+    quote: 'If we wait until we're ready, we'll be waiting for the rest of our lives'
 }
 ```
 
