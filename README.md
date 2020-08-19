@@ -7,7 +7,7 @@ const aboutMe = {
     learning: 'Making web apps with the MERN stack',
     employment: {
         current: 'Software Engineering Intern @ CaseWare',
-        previous: 'MLH Fellow @ MLH Fellowship. Contributed to Python open-source projects (i.e. FastAPI, Flask, howdoi)',
+        previous: 'MLH Fellow @ MLH Fellowship; contributed to Python open-source software',
         student: 'Rising Computer Science senior @ York University',
         leadership: 'Former president of the CSHub club @ York University'
     },
@@ -17,7 +17,7 @@ const aboutMe = {
         linkedin: 'https://www.linkedin.com/in/chrisngyn',
         discord: 'chrispy#8933'
     },
-    quote: 'If we wait until we're ready, we'll be waiting for the rest of our lives'
+    quote: 'If we wait until we are ready, we will be waiting for the rest of our lives'
 }
 ```
 
