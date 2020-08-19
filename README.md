@@ -1,15 +1,14 @@
-### Hi there! I'm Christopher. <img src="https://github.com/chrisngyn/chrisngyn/blob/master/Hi.gif" width="30px">
+### Hi there! I'm Christopher (he / him). <img src="https://github.com/chrisngyn/chrisngyn/blob/master/Hi.gif" width="30px">
 
 ```javascript
 const aboutMe = {
     name: 'Christopher Nguyen',
-    pronouns: ['He', 'Him'],
     languages: ['Python', 'Java', 'JavaScript', 'HTML', 'CSS'],
     learning: 'Making web apps with the MERN stack',
     employment: {
         current: 'Software Engineering Intern @ CaseWare',
-        previous: 'MLH Fellow @ MLH Fellowship program. Worked on open-source Python software (FastAPI, Flask, howdoi)',
-        student: 'Rising Computer Science senior student @ York University',
+        previous: 'MLH Fellow @ MLH Fellowship. Contributed to Python open-source projects (i.e. FastAPI, Flask, howdoi)',
+        student: 'Rising Computer Science senior @ York University',
         leadership: 'Former president of the CSHub club @ York University'
     },
     connect: {
