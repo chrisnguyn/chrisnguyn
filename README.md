@@ -6,7 +6,7 @@ const aboutMe = {
     languages: ['Python', 'Java', 'JavaScript', 'HTML', 'CSS'],
     learning: 'Making web apps with the MERN stack',
     employment: {
-        current: 'Software Engineering Intern @ CaseWare',
+        current: 'Software Developer Intern @ CaseWare',
         previous: 'MLH Fellow @ MLH Fellowship; contributed to Python open-source software',
         student: 'Rising Computer Science senior @ York University',
         leadership: 'Former president of the CSHub club @ York University'
