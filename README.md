@@ -4,8 +4,8 @@
 const aboutMe = {
     name: 'Christopher Nguyen',
     languages: ['Python', 'Java', 'JavaScript', 'HTML', 'CSS'],
-    learning: 'Making web apps with the MERN stack',
-    employment: {
+    learning: 'Making web applications with the MERN stack',
+    experience: {
         current: 'Software Developer Intern @ CaseWare',
         previous: 'MLH Fellow @ MLH Fellowship; contributed to Python open-source software',
         student: 'Rising Computer Science senior @ York University',
