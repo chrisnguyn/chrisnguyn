@@ -4,12 +4,12 @@
 const aboutMe = {
     name: 'Christopher Nguyen',
     languages: ['Python', 'Java', 'JavaScript', 'HTML', 'CSS'],
-    learning: 'Making web applications with the MERN stack',
+    learning: 'Developing applications with Flask',
     experience: {
-        current: 'Software Developer Intern @ CaseWare',
-        previous: 'MLH Fellow @ MLH Fellowship; contributed to Python open-source software',
-        student: 'Rising Computer Science senior @ York University',
-        leadership: 'Former president of the CSHub club @ York University'
+        current: 'Software Engineer Intern @ MDA Space',
+        previous: 'SWE Intern @ CaseWare, SWE Intern @ MLH Fellowship',
+        student: 'Senior Computer Science @ York University',
+        leadership: 'Former president of the CS Hub club @ York University'
     },
     connect: {
         website: 'http://chris-nguyen.me',
