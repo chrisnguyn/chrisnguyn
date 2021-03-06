@@ -4,10 +4,10 @@
 const aboutMe = {
     name: 'Christopher Nguyen',
     experience: {
-        incoming : 'summer intern @ Amazon, fall intern @ Shopify',
-        current: 'intern @ MDA Space',
+        student: 'Computer Science Senior @ York University',
+        incoming: 'SWE Intern @ Amazon (summer 2021), SWE Intern @ Shopify (fall 2021)',
+        current: 'SWE Intern @ MDA Space',
         previous: 'CaseWare, MLH Fellowship'
-        student: 'Senior Computer Science @ York University',
     },
     connect: {
         website: 'http://chris-nguyen.me',
