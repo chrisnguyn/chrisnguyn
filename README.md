@@ -13,7 +13,6 @@ const aboutMe = {
         website: 'http://chris-nguyen.me',
         github: 'https://github.com/chrisngyn',
         linkedin: 'https://www.linkedin.com/in/chrisngyn',
-        discord: 'chrispy#8933'
     },
     quote: 'If we wait until we are ready, we will be waiting for the rest of our lives'
 }
