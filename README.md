@@ -4,17 +4,17 @@
 const aboutMe = {
     name: 'Christopher Nguyen',
     experience: {
-        student: 'CS @ York University (expecting to graduate April 2022)',
+        education: 'CS @ York University (expecting to graduate April 2022)',
+        currently: 'Software Engineer Intern @ MDA Space',
         incoming: 'Software Engineer Intern @ Amazon Web Services',
-        current: 'Software Engineer Intern @ MDA Space',
-        previous: 'CaseWare, MLH Fellowship'
+        previously: 'CaseWare, MLH Fellowship'
     },
-    connect: {
+    links: {
         website: 'http://chris-nguyen.me',
         github: 'https://github.com/chrisngyn',
         linkedin: 'https://www.linkedin.com/in/chrisngyn',
     },
-    quote: 'If we wait until we are ready, we will be waiting for the rest of our lives'
+    quote: 'If we wait until we feel ready, we will be waiting for the rest of our lives'
 }
 ```
 
