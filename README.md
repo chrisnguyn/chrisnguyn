@@ -4,9 +4,9 @@
 const aboutMe = {
     name: 'Christopher Nguyen',
     experience: {
-        student: 'Computer Science Senior @ York University',
-        incoming: 'SWE Intern @ Amazon',
-        current: 'SWE Intern @ MDA Space',
+        student: 'CS @ York University (expecting to graduate April 2022)',
+        incoming: 'Software Engineer Intern @ Amazon Web Services',
+        current: 'Software Engineer Intern @ MDA Space',
         previous: 'CaseWare, MLH Fellowship'
     },
     connect: {
