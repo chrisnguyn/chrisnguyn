@@ -13,7 +13,7 @@ const aboutMe = {
         github: 'https://github.com/chrisngyn',
         linkedin: 'https://www.linkedin.com/in/chrisngyn',
     },
-    quote: 'If we wait until we feel ready, we will be waiting for the rest of our lives'
+    quote: 'This thing we call failure is not the falling down, but the staying down. - Leslie Knope'
 }
 ```
 
