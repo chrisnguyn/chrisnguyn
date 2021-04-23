@@ -4,13 +4,12 @@
 const aboutMe = {
     name: 'Christopher Nguyen',
     experience: {
-        education: 'CS @ York University (expecting to graduate April 2022)',
-        currently: 'Software Engineer Intern @ MDA Space',
-        incoming: 'Software Engineer Intern @ Amazon Web Services',
-        previously: 'CaseWare, MLH Fellowship'
+        education: 'CS @ York University (expected grad Apr. 2022)',
+        currently: 'Summer 2021 SWE Intern @ Amazon Web Services',
+        incoming: 'Fall 2021 SWE Intern @ Shopify',
     },
     links: {
-        website: 'http://chris-nguyen.me',
+        website: 'https://chris-nguyen.me',
         github: 'https://github.com/chrisngyn',
         linkedin: 'https://www.linkedin.com/in/chrisngyn',
     },
@@ -20,4 +19,4 @@ const aboutMe = {
 
 ----------------------------------------------------------------------------------------------------
 
-![Chris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisngyn&show_icons=true&hide_rank=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisngyn&show_icons=true&hide_rank=true&hide_border=true)
