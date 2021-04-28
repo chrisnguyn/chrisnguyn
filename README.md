@@ -6,7 +6,6 @@ const aboutMe = {
     experience: {
         education: 'CS @ York University (expected grad Apr. 2022)',
         currently: 'Summer 2021 SWE Intern @ Amazon Web Services',
-        incoming: 'Fall 2021 SWE Intern @ Shopify',
     },
     links: {
         website: 'https://chris-nguyen.me',
