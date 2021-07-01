@@ -1,18 +1,18 @@
 ### Hi there! I'm Christopher (he / him). <img src="https://github.com/chrisngyn/chrisngyn/blob/master/Hi.gif" width="30px">
 
 ```javascript
-const aboutMe = {
-    name: 'Christopher Nguyen',
+const about = {
+    name: 'christopher nguyen',
     experience: {
-        education: 'CS @ York University (expected grad Apr. 2022)',
-        currently: 'Summer 2021 SWE Intern @ Amazon Web Services',
+        education: 'senior computer science student @ york university',
+        current: 'software engineer intern @ amazon',
     },
     links: {
         website: 'https://chris-nguyen.me',
         github: 'https://github.com/chrisngyn',
         linkedin: 'https://www.linkedin.com/in/chrisngyn',
     },
-    quote: 'This thing we call failure is not the falling down, but the staying down. - Leslie Knope'
+    quote: 'this thing we call failure is not the falling down, but the staying down. - leslie knope'
 }
 ```
 
