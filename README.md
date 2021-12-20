@@ -6,7 +6,7 @@ const about = {
     experience: {
         education: 'cs @ york university',
         currently: 'software engineer intern @ facebook',
-        previously: 'intern @ amazon, shopify'
+        previously: 'intern @ amazon + shopify'
     },
     links: {
         website: 'https://chris-nguyen.me',
