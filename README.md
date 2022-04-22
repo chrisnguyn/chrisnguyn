@@ -9,7 +9,7 @@ const about = {
         previously: 'intern @ amazon + shopify'
     },
     links: {
-        website: 'https://chris-nguyen.me',
+        website: 'https://chrisnguyen.read.cv/',
         github: 'https://github.com/chrisngyn',
         linkedin: 'https://www.linkedin.com/in/chrisngyn',
     },
