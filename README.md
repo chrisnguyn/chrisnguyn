@@ -4,12 +4,12 @@
 const about = {
     name: 'christopher nguyen',
     experience: {
-        education: 'cs @ york university',
-        currently: 'software engineer intern @ facebook',
-        previously: 'intern @ amazon + shopify'
+        education: 'cs alumni @ york university',
+        currently: 'looking for new grad SWE roles',
+        previously: 'intern @ facebook, shopify, amazon'
     },
     links: {
-        website: 'https://chrisnguyen.read.cv/',
+        website: 'https://chrisnguyen.read.cv',
         github: 'https://github.com/chrisngyn',
         linkedin: 'https://www.linkedin.com/in/chrisngyn',
     },
