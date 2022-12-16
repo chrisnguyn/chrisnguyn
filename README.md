@@ -4,8 +4,8 @@
 const about = {
     name: 'christopher nguyen',
     experience: {
-        education: 'cs alumni @ york university',
-        currently: 'looking for new grad SWE roles',
+        education: 'york university computer science alumni',
+        currently: 'incoming software engineer @ tba',
         previously: 'intern @ facebook, shopify, amazon'
     },
     links: {
@@ -16,7 +16,3 @@ const about = {
     quote: 'this thing we call failure is not the falling down, but the staying down. - leslie knope'
 }
 ```
-
-----------------------------------------------------------------------------------------------------
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisngyn&show_icons=true&hide_rank=true&hide_border=true)
